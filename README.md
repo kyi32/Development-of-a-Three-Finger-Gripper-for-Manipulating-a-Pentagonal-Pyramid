@@ -1,0 +1,1 @@
+# Development-of-a-Three-Finger-Gripper-for-Manipulating-a-Pentagonal-Pyramid
