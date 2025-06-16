@@ -37,7 +37,3 @@ Refer to the `Development of a Three-Finger Gripper for Manipulating a Pentagona
 7. Securing rubber pads
 8. Mounting the distance sensor
 9. General wiring considerations
-
-## Contributors
-- Rybalko Ivan
-- KyiMin Thant
